@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E1CAA2</color>
+    <color name="colorPrimaryDark">#3e3e3e</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="halfTransparent">#50000000</color>
+    <color name="halfTransparent2">#99DBBE8E</color>
+
+    <color name="halfTransparent3">#99E1CAA2</color>
+</resources>
